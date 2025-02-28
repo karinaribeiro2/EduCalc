@@ -1,7 +1,7 @@
-# 🎓 EduCalc: Identificação de Faixa Etária
+# 🎓 EtariX: Identificação de Faixa Etária
 
 ## 📌 Descrição
-**EduCalc** é uma aplicação web desenvolvida em **HTML, CSS e JavaScript** que identifica a faixa etária de uma pessoa com base na idade informada pelo usuário.
+**EtariX** é uma aplicação web desenvolvida em **HTML, CSS e JavaScript** que identifica a faixa etária de uma pessoa com base na idade informada pelo usuário.
 
 ---
 
@@ -24,11 +24,11 @@ O usuário informa sua idade e recebe como resposta a categoria correspondente:
 ## 🚀 Como Executar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/EduCalc.git
+   git clone https://github.com/seu-usuario/EtariX.git
    ```
 2. Acesse a pasta do projeto:
    ```bash
-   cd EduCalc
+   cd EtariX
    ```
 3. Abra o arquivo **index.html** em um navegador.
 
@@ -36,7 +36,7 @@ O usuário informa sua idade e recebe como resposta a categoria correspondente:
 
 ## 📂 Estrutura do Projeto
 ```
-EduCalc/
+EtariX/
 │-- index.html          # Interface principal
 │-- faixa-etaria.js     # Script para cálculo da faixa etária
 │-- style.css           # Estilos da aplicação
